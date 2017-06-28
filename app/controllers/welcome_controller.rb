@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
-  def pets
+  def home
   end
 
   def supplies
